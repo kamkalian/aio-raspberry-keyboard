@@ -1,2 +1,2 @@
-# aio-raspberry-keyboard
+# aio-raspi-keyboard
 All in one raspberry Pi keyboard
